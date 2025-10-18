@@ -6,5 +6,4 @@ This is a Java project implementing a `WarmestDataStructure` class that meets th
 - `remove(key)` – remove a key from the structure in O(1)
 - `getWarmest()` – retrieve the most recently accessed or added key (not removed) in O(1)
 
-## Project Structure
 
